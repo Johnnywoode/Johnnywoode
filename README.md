@@ -17,3 +17,11 @@ I also train young 'wanna-be' programmers elevate their programming skills from 
 ### Favorite IDEs/Code Editors 
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea.svg" alt="IntelliJ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VS Code Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text Logo" width="50" height="50"/>
 ---
+
+
+📘 Latest Gitub Repositories
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more repositories](https://github.com/Johnnywoode?tab=repositories)
