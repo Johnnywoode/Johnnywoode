@@ -25,3 +25,12 @@ I also train young 'wanna-be' programmers elevate their programming skills from 
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more repositories](https://github.com/Johnnywoode?tab=repositories)
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnywoode&langs_count=8&hide=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SIRJAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnywoode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
