@@ -15,7 +15,7 @@ I also train young 'wanna-be' programmers elevate their programming skills from 
 <img src="https://cdn.worldvectorlogo.com/logos/springboot.svg" alt="Java Spring Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="Codeigniter Logo" width="50" height="50"/>
 
 ### Favorite IDEs/Code Editors 
-<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea.svg" alt="IntelliJ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VS Code Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea.svg" alt="IntelliJ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="VS Code Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij.svg" alt="IntelliJ Logo" width="50" height="50"/>
 ---
 
 
