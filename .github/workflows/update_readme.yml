@@ -1,4 +1,4 @@
-name: Update README with latest repos
+name: Update README with latest repositories
 
 on:
   schedule:
@@ -12,10 +12,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README
-        uses: teoxoy/profile-readme-stats@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch latest repositories
+        run: |
+          curl -s "https://api.github.com/users/johnnywoode/repos?sort=created&per_page=5" | 
+          jq -r '.[] | "- [\(.name)](\(.html_url))"' > latest-repos.md
+
+      - name: Update README.md
+        run: |
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n'$(cat latest-repos.md)'\n<!-- BLOG-POST-LIST:END -->' README.md
 
       - name: Commit and push changes
         run: |
